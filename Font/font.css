@@ -1,0 +1,19 @@
+.font{
+    background-color: grey;
+    color: rgb(0, 232, 248);
+    text-align: center;
+    text-align: center;
+    font-size: 50;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-variant: inherit;
+    padding: 5%;
+    margin: 2o%;
+    border: rgb(255, 72, 72) 5px ;border-top-style: groove;
+
+}
+
+h1{
+    text-align: center;
+}
